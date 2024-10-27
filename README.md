@@ -74,9 +74,3 @@ Analysis of state-wise crime occurrences highlights regions with disproportionat
 
 ## **Conclusion**
 The analysis of historical crime data from 2001 to 2014 highlights an upward trend in reported crimes against women across India. These findings suggest increased awareness and reporting, particularly in the later years. However, the persistent high counts of domestic and sexual violence underline the urgent need for continued policy interventions, public awareness, and support systems to address and reduce crimes against women.
-
-## **Future Scope**
-Further studies could explore:
-- Socioeconomic and demographic factors driving regional disparities.
-- The impact of government policies and social campaigns on crime rates post-2014.
-- Comparative analysis with more recent data to understand current trends and improvements, if any.
